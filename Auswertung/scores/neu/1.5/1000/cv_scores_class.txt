@@ -1,0 +1,24 @@
+========Prog1_beste=======
+Best parameter for ACC (CV score=0.7172) 
+{'criterion': 'gini', 'max_depth': 3, 'max_features': 0.25, 'max_leaf_nodes': 5, 'min_samples_leaf': 100, 'min_samples_split': 2}
+Best parameter for F1 (CV score=0.3728)
+{'criterion': 'entropy', 'max_depth': 15, 'max_features': 0.25, 'max_leaf_nodes': 100, 'min_samples_leaf': 3, 'min_samples_split': 2}
+Best parameter for AUC (CV score=0.5940)
+{'criterion': 'entropy', 'max_depth': 4, 'max_features': 0.25, 'max_leaf_nodes': 10, 'min_samples_leaf': 1, 'min_samples_split': 10}
+========MfI1_beste=======
+Best parameter for ACC (CV score=0.7057) 
+{'criterion': 'entropy', 'max_depth': 10, 'max_features': 0.5, 'max_leaf_nodes': 20, 'min_samples_leaf': 1, 'min_samples_split': 40}
+Best parameter for F1 (CV score=0.6217)
+{'criterion': 'entropy', 'max_depth': 10, 'max_features': 0.5, 'max_leaf_nodes': 20, 'min_samples_leaf': 1, 'min_samples_split': 40}
+Best parameter for AUC (CV score=0.7514)
+{'criterion': 'entropy', 'max_depth': 10, 'max_features': 0.5, 'max_leaf_nodes': 20, 'min_samples_leaf': 1, 'min_samples_split': 40}
+========beste=======
+Best parameter for ACC (CV score=0.7229) 
+{'criterion': 'gini', 'max_depth': 3, 'max_features': 0.25, 'max_leaf_nodes': 5, 'min_samples_leaf': 100, 'min_samples_split': 2}
+Best parameter for F1 (CV score=0.3715)
+{'criterion': 'gini', 'max_depth': 10, 'max_features': 1.0, 'max_leaf_nodes': 100, 'min_samples_leaf': 3, 'min_samples_split': 10}
+Best parameter for AUC (CV score=0.6088)
+{'criterion': 'entropy', 'max_depth': 5, 'max_features': 0.75, 'max_leaf_nodes': 20, 'min_samples_leaf': 5, 'min_samples_split': 20}
+========beide=======
+Best parameter for ACC (CV score=0.6400) 
+{'criterion': 'gini', 'max_depth': 3, 'max_features': 1.0, 'max_leaf_nodes': 5, 'min_samples_leaf': 100, 'min_samples_split': 2}

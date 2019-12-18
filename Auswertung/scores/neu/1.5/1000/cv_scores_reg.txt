@@ -1,0 +1,20 @@
+========Prog1_scaled=======
+Best parameter for RMSE (CV score=84.6143)
+{'criterion': 'mse', 'max_depth': 10, 'max_features': 0.25, 'max_leaf_nodes': 100, 'min_samples_leaf': 1, 'min_samples_split': 5}
+Best parameter for MAE (CV score=-63.4664)
+{'criterion': 'mae', 'max_depth': 10, 'max_features': 1.0, 'max_leaf_nodes': 100, 'min_samples_leaf': 3, 'min_samples_split': 2}
+========Prog1_beste=======
+Best parameter for RMSE (CV score=87.0816)
+{'criterion': 'mse', 'max_depth': 10, 'max_features': 0.75, 'max_leaf_nodes': 100, 'min_samples_leaf': 3, 'min_samples_split': 10}
+Best parameter for MAE (CV score=-60.0714)
+{'criterion': 'mae', 'max_depth': 15, 'max_features': 1.0, 'max_leaf_nodes': 100, 'min_samples_leaf': 1, 'min_samples_split': 5}
+========MfI1_beste=======
+Best parameter for RMSE (CV score=83.7984)
+{'criterion': 'mse', 'max_depth': 15, 'max_features': 0.75, 'max_leaf_nodes': 100, 'min_samples_leaf': 3, 'min_samples_split': 2}
+Best parameter for MAE (CV score=-56.8724)
+{'criterion': 'mse', 'max_depth': 15, 'max_features': 1.0, 'max_leaf_nodes': 100, 'min_samples_leaf': 1, 'min_samples_split': 2}
+========beste=======
+Best parameter for RMSE (CV score=87.2975)
+{'criterion': 'mae', 'max_depth': 15, 'max_features': 0.75, 'max_leaf_nodes': 100, 'min_samples_leaf': 5, 'min_samples_split': 2}
+Best parameter for MAE (CV score=-61.1000)
+{'criterion': 'mae', 'max_depth': 10, 'max_features': 0.75, 'max_leaf_nodes': 100, 'min_samples_leaf': 5, 'min_samples_split': 2}

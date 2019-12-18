@@ -1,0 +1,9 @@
+========Prog1_beste=======
+Best parameter for ACC (CV score=0.4594)
+{'criterion': 'entropy', 'max_depth': 3, 'max_features': 1.0, 'max_leaf_nodes': 10, 'min_samples_leaf': 1, 'min_samples_split': 20}
+========MfI1_beste=======
+Best parameter for ACC (CV score=0.5073)
+{'criterion': 'gini', 'max_depth': 3, 'max_features': 0.5, 'max_leaf_nodes': 10, 'min_samples_leaf': 20, 'min_samples_split': 2}
+========beste=======
+Best parameter for ACC (CV score=0.4744)
+{'criterion': 'entropy', 'max_depth': 3, 'max_features': 0.75, 'max_leaf_nodes': 5, 'min_samples_leaf': 1, 'min_samples_split': 100}

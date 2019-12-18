@@ -1,0 +1,5 @@
+========Prog1_scaled=======
+Best parameter for RMSE (CV score=88.4452)
+{'criterion': 'mse', 'max_depth': 10, 'max_features': 0.25, 'max_leaf_nodes': 30, 'min_samples_leaf': 1, 'min_samples_split': 5}
+Best parameter for MAE (CV score=-64.7185)
+{'criterion': 'mse', 'max_depth': 10, 'max_features': 0.25, 'max_leaf_nodes': 100, 'min_samples_leaf': 1, 'min_samples_split': 2}
